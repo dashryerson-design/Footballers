@@ -5,7 +5,7 @@
 [![Visit the website](https://img.shields.io/badge/%E2%9C%A8%20WEBSITE-3ef0a5?style=for-the-badge&labelColor=04070a)](https://dashryerson-design.github.io/Footballers/)
 [![Play in browser](https://img.shields.io/badge/%E2%96%B6%20PLAY%20NOW-36c9ff?style=for-the-badge&labelColor=04070a)](https://dashryerson-design.github.io/Footballers/play/)
 
-**Current version: Alpha 8.2** · see the full patch log on the website or in the game's PATCH NOTES menu.
+**Current version: Alpha 10.9** · see the full patch log on the website or in the game's PATCH NOTES menu.
 
 ### What's in it
 - **Active ragdolls**: 19-body players with PD muscles, balance, falls and get-ups
